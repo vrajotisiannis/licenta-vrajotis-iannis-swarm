@@ -9,3 +9,11 @@ Implementarea unui sistem leader–follower folosind Webots și ROS2.
 - ros2/ – noduri ROS2
 - webots/ – configurații simulare
 - experiments/ – teste și cod experimental
+
+
+## TODO următoarele zile
+
+- [ ] Setup workspace ROS2 local
+- [ ] Configurare pachet minimal pentru nod
+- [ ] Testare comunicare simplă publisher/subscriber
+- [ ] Integrare cu simulare Webots
