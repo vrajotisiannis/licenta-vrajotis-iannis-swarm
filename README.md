@@ -1,2 +1,11 @@
-# licenta-vrajotis-iannis-swarm
-Proiectul de licenta,swarm ai
+ Proiect Licență – Control Multi-Robot în Webots cu ROS2
+
+Acest repository conține implementări și experimente realizate pentru proiectul de licență.
+
+## Obiectiv
+Implementarea unui sistem leader–follower folosind Webots și ROS2.
+
+## Structură
+- ros2/ – noduri ROS2
+- webots/ – configurații simulare
+- experiments/ – teste și cod experimental
